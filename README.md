@@ -1,7 +1,7 @@
 # Gitlab Pipelines
 
 <h1>Introduction</h1>
-This is a simple <b>Gitlab DevOps</b> project that shows how to write <b>yml</b> script, build pipelines, stage pipelines, use of variables and running the pipelines successfully. <br><br>
+This is a simple <b>Gitlab DevOps</b> project that shows the <b>yml</b> script, building pipelines, staging pipelines, use of variables and running the pipelines successfully. <br><br>
 
 <b>.gitlab-ci.yml</b> <br>
 
